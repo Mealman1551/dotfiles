@@ -1,0 +1,6 @@
+2025-09-24 09:23:26.231 [error] #1121: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-09-24 09:23:30.918 [error] #1122: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2025-09-25 21:32:26.181 [error] #2129: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 10000ms
+2025-09-27 13:35:36.425 [error] #3007: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_HTTP2_PROTOCOL_ERROR
+2025-09-27 13:35:39.171 [error] #3008: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_HTTP2_PROTOCOL_ERROR
+2025-09-28 18:15:38.235 [error] #4180: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 10000ms

@@ -1,0 +1,2 @@
+2025-10-01 15:04:24.519 [error] #1264: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_RESET
+2025-10-03 17:39:36.400 [error] #2310: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 10000ms

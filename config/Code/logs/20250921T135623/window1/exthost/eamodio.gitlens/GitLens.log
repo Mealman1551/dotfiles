@@ -1,0 +1,5 @@
+2025-09-21 13:56:57.126 [info] GitLens v17.4.1 activating in Visual Studio Code (1.104.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (1f136c8d7446a1f27b9dcd2f2c14d7ba2508c6007dbc3c90187eb2f3fc193b91|22b0e328-5da1-4f98-90f4-bcdb0328480f1758455785697)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+
+2025-09-21 13:56:57.126 [info] [2025-09-21 11:56:56.802] [GIT   *1415ms] [/home/nathan/ADC] git rev-parse --git-dir --git-common-dir [*1415ms] (slow)
+

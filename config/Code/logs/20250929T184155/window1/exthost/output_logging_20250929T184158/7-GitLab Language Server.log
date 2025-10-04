@@ -1,0 +1,32 @@
+2025-09-29T18:42:21:227 [info]: fetch: Detected no proxy settings
+2025-09-29T18:42:21:297 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-09-29T18:42:21:542 [info]: GitLab Language Server is starting (v8.15.0)
+2025-09-29T18:42:21:544 [info]: Applying 4 endpoints to connection.
+2025-09-29T18:42:21:680 [info]: [HttpServer]: server listening on http://127.0.0.1:44871/
+2025-09-29T18:42:21:684 [info]: GitLab Language Server has started
+[Error - 18:42:21] (node:2760633) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[Error - 18:42:21] (node:2760633) [FSTDPE022] FastifyWarning: The router options for ignoreTrailingSlash property access is deprecated. Please use "options.routerOptions" instead for accessing router options. The router options will be removed in `fastify@6`.
+2025-09-29T18:42:21:761 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-29T18:42:21:762 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-29T18:42:21:762 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-29T18:42:21:763 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-29T18:42:21:763 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-29T18:42:22:042 [info]: [VirtualFileSystemService] Registering watchers
+2025-09-29T18:42:22:092 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-29T18:43:34:712 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/README.md
+2025-09-29T18:43:36:689 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/README.md
+2025-09-29T18:43:39:570 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/index.lock
+2025-09-29T18:43:39:571 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/index
+2025-09-29T18:43:39:572 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/refs/heads/main
+2025-09-29T18:43:39:573 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/COMMIT_EDITMSG
+2025-09-29T18:43:39:575 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/index.lock
+2025-09-29T18:43:41:448 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/refs/remotes/origin/main.lock
+2025-09-29T18:43:41:449 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/refs/remotes/origin/main
+2025-09-29T18:43:41:451 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/FETCH_HEAD
+2025-09-29T18:43:41:453 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/refs/remotes/origin/main.lock
+2025-09-29T18:43:41:951 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/FETCH_HEAD
+2025-09-29T18:43:42:359 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/refs/remotes/origin/HEAD
+2025-09-29T18:43:44:232 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/FETCH_HEAD
+2025-09-29T18:43:44:621 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/FETCH_HEAD
+2025-09-29T18:43:44:982 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/refs/remotes/origin/HEAD

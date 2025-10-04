@@ -1,0 +1,30 @@
+2025-09-28 20:36:42.994 [info] Experiment 'pythonSurveyNotification' is active
+2025-09-28 20:36:42.994 [info] Native locator: Refresh started
+2025-09-28 20:36:42.994 [info] Native locator: Refresh finished in 657 ms
+2025-09-28 20:36:45.795 [info] Python interpreter path: /bin/python3
+2025-09-28 20:36:46.253 [info] > pyenv which python
+2025-09-28 20:36:46.253 [info] cwd: .
+2025-09-28 20:37:05.099 [info] Starting Pylance language server.
+2025-09-28 20:37:54.391 [info] Python interpreter path: /usr/bin/python3
+2025-09-28 20:42:32.133 [info] Running installed packages checker:  {
+  id: '/usr/bin/python3',
+  sysPrefix: '/usr',
+  envType: 'System',
+  envName: '',
+  envPath: '/usr/bin/python3',
+  path: '/usr/bin/python3',
+  architecture: 3,
+  sysVersion: '',
+  version: {
+    raw: '3.11.2',
+    major: 3,
+    minor: 11,
+    patch: 2,
+    build: [],
+    prerelease: []
+  },
+  displayName: 'Python 3.11.2',
+  detailedDisplayName: 'Python 3.11.2',
+  type: undefined
+} /home/nathan/.vscode/extensions/ms-python.python-2025.14.0-linux-x64/python_files/installed_check.py /home/nathan/ADC-compile-from-source/requirements.txt
+2025-09-28 20:42:32.133 [info] > /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2025.14.0-linux-x64/python_files/installed_check.py ./requirements.txt

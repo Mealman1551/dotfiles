@@ -1,0 +1,39 @@
+2025-09-05 19:38:24.954 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-05 19:38:24.973 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-05 19:38:24.973 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-05 19:38:26.202 [info] Started local extension host with pid 559113.
+2025-09-05 19:38:32.824 [error] [Extension Host] (node:559113) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-09-05 19:38:38.990 [info] Extension host (LocalProcess pid: 559113) is unresponsive.
+2025-09-05 19:38:40.000 [error] [Extension Host] (node:559113) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-09-05 19:38:42.393 [info] [perf] Render performance baseline is 79ms
+2025-09-05 19:38:42.956 [info] Extension host (LocalProcess pid: 559113) is responsive.
+2025-09-05 19:38:43.531 [info] Settings Sync: Account status changed from uninitialized to available
+2025-09-05 19:38:44.398 [warning] Authentication provider gitlab was not declared in the Extension Manifest.
+2025-09-05 19:38:54.836 [warning] [LM] Model copilot/gpt-4.1 is already registered. Skipping.
+2025-09-05 19:38:54.837 [warning] [LM] Model copilot/gpt-5-mini is already registered. Skipping.
+2025-09-05 19:38:54.838 [warning] [LM] Model copilot/gpt-3.5-turbo is already registered. Skipping.
+2025-09-05 19:38:54.839 [warning] [LM] Model copilot/gpt-4o-mini is already registered. Skipping.
+2025-09-05 19:38:54.840 [warning] [LM] Model copilot/gpt-4 is already registered. Skipping.
+2025-09-05 19:38:54.841 [warning] [LM] Model copilot/gpt-4-0125-preview is already registered. Skipping.
+2025-09-05 19:38:54.842 [warning] [LM] Model copilot/gpt-4o is already registered. Skipping.
+2025-09-05 19:38:54.844 [warning] [LM] Model copilot/o3-mini is already registered. Skipping.
+2025-09-05 19:38:54.845 [warning] [LM] Model copilot/claude-3.5-sonnet is already registered. Skipping.
+2025-09-05 19:38:54.846 [warning] [LM] Model copilot/gemini-2.0-flash-001 is already registered. Skipping.
+2025-09-05 19:38:54.846 [warning] [LM] Model copilot/gemini-2.5-pro is already registered. Skipping.
+2025-09-05 19:39:38.180 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-05 19:39:38.181 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-05 19:39:38.181 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-09-05 19:39:38.617 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-09-05 19:39:39.080 [info] Started local extension host with pid 564571.
+2025-09-05 19:39:42.887 [error] [Extension Host] (node:564571) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-09-05 19:39:43.880 [error] [Extension Host] (node:564571) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2025-09-05 19:39:46.515 [info] [perf] Render performance baseline is 85ms
+2025-09-05 19:39:48.924 [info] Extension host (LocalProcess pid: 564571) is unresponsive.
+2025-09-05 19:39:50.430 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-09-05 19:39:51.431 [info] Extension host (LocalProcess pid: 564571) is responsive.
+2025-09-05 19:39:51.432 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-09-05 19:39:51.797 [warning] UNRESPONSIVE extension host: 'github.copilot' took 32.05992628621011% of 322.192ms, saved PROFILE here: 'file:///tmp/exthost-9e7207.cpuprofile'
+2025-09-05 19:39:52.124 [info] Settings Sync: Account status changed from uninitialized to available
+2025-09-05 19:39:52.614 [warning] Authentication provider gitlab was not declared in the Extension Manifest.

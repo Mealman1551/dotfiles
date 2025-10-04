@@ -1,0 +1,4 @@
+2025-09-02 23:03:18.394 [info] [2025-09-02 21:03:18.171] [        406ms] [/home/nathan] git rev-parse --show-toplevel • FAILED
+2025-09-02 23:03:18.394 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

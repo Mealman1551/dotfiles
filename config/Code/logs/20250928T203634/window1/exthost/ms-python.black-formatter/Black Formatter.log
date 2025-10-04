@@ -1,0 +1,92 @@
+2025-09-28 20:36:56.989 [info] Name: Black Formatter
+2025-09-28 20:36:56.989 [info] Module: black
+2025-09-28 20:36:56.989 [info] Default formatter is set to ms-python.black-formatter for workspace /home/nathan/ADC-compile-from-source
+2025-09-28 20:36:56.989 [info] Python extension loading
+2025-09-28 20:36:56.989 [info] Waiting for interpreter from Python extension.
+2025-09-28 20:36:56.989 [info] No interpreter found from setting black-formatter.interpreter
+2025-09-28 20:36:56.989 [info] Getting interpreter from ms-python.python extension for workspace /home/nathan/ADC-compile-from-source
+2025-09-28 20:36:56.989 [info] Python extension loaded
+2025-09-28 20:36:56.989 [info] Interpreter from ms-python.python extension for /home/nathan/ADC-compile-from-source: /usr/bin/python3
+2025-09-28 20:36:56.989 [info] Workspace settings for /home/nathan/ADC-compile-from-source (client side): {
+    "cwd": "/home/nathan/ADC-compile-from-source",
+    "workspace": "file:///home/nathan/ADC-compile-from-source",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/usr/bin/python3"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-09-28 20:36:56.989 [info] No interpreter found from setting black-formatter.interpreter
+2025-09-28 20:36:56.989 [info] Getting interpreter from ms-python.python extension for workspace /home/nathan/ADC-compile-from-source
+2025-09-28 20:36:56.989 [info] Interpreter from ms-python.python extension for /home/nathan/ADC-compile-from-source: /usr/bin/python3
+2025-09-28 20:36:56.989 [info] Workspace settings for /home/nathan/ADC-compile-from-source (client side): {
+    "cwd": "/home/nathan/ADC-compile-from-source",
+    "workspace": "file:///home/nathan/ADC-compile-from-source",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/usr/bin/python3"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-09-28 20:36:56.989 [info] Global settings (client side): {
+    "cwd": "/home/nathan",
+    "workspace": "/home/nathan",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-09-28 20:36:56.989 [info] Server run command: /usr/bin/python3 /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/tool/lsp_server.py
+2025-09-28 20:36:56.989 [info] Server: Start requested.
+2025-09-28 20:36:59.180 [info] CWD Server: /home/nathan/ADC-compile-from-source
+2025-09-28 20:36:59.282 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/nathan/ADC-compile-from-source",
+        "workspace": "file:///home/nathan/ADC-compile-from-source",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/usr/bin/python3"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-09-28 20:36:59.486 [info] Global settings received on server:
+{
+    "cwd": "/home/nathan",
+    "workspace": "/home/nathan",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-09-28 20:36:59.725 [info] sys.path used to run Server:
+   /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/libs
+   /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/nathan/.local/lib/python3.13/site-packages
+   /usr/local/lib/python3.13/dist-packages
+   /usr/lib/python3/dist-packages
+2025-09-28 20:36:59.828 [info] /usr/bin/python3 -m black --version
+2025-09-28 20:36:59.873 [info] CWD formatter: /home/nathan/ADC-compile-from-source
+2025-09-28 20:36:59.938 [info] Version info for formatter running for /home/nathan/ADC-compile-from-source:
+black, 25.1.0 (compiled: no)
+Python (CPython) 3.13.5
+
+2025-09-28 20:37:00.001 [info] SUPPORTED black>=22.3.0
+FOUND black==25.1.0
+
+2025-09-28 20:37:54.285 [info] [Trace - 20:37:54] Sending notification 'textDocument/didOpen'.
+2025-09-28 20:39:18.314 [info] [Trace - 20:39:18] Sending notification 'textDocument/didClose'.

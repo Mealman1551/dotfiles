@@ -1,0 +1,31 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "visible",
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "editor.fontFamily": "Cascadia Mono, 'Courier New', monospace",
+    "terminal.integrated.gpuAcceleration": "off",
+    "git.autofetch": true,
+    "security.allowedUNCHosts": [
+        "nasdubuy"
+    ],
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "redhat.telemetry.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmPasteNative": false,
+    "settingsSync.ignoredExtensions": [
+        
+    ],
+    "projectManager.git.baseFolders": [
+        "c:\\",
+        "d:\\"
+    ],
+    "tabnine.experimentalAutoImports": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.openRepositoryInParentFolders": "always",
+    "git.confirmSync": false,
+    "[html]": {
+        "editor.defaultFormatter": "mohd-akram.vscode-html-format"
+    },
+    "python.createEnvironment.trigger": "off"
+}

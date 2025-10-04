@@ -1,0 +1,13 @@
+2025-09-02 23:02:21.700 [info] Experiment 'pythonSurveyNotification' is active
+2025-09-02 23:02:21.700 [info] Native locator: Refresh started
+2025-09-02 23:02:21.700 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-09-02 23:02:21.896 [info] > pyenv which python
+2025-09-02 23:02:21.896 [info] cwd: .
+2025-09-02 23:02:45.466 [info] Experiment 'pythonSurveyNotification' is active
+2025-09-02 23:02:45.467 [info] Native locator: Refresh started
+2025-09-02 23:02:45.467 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-09-02 23:02:45.768 [info] > pyenv which python
+2025-09-02 23:02:45.768 [info] cwd: .
+2025-09-02 23:02:59.579 [info] Native locator: Refresh finished in 16235 ms
+2025-09-02 23:02:59.587 [info] Python interpreter path: /usr/bin/python3
+2025-09-02 23:03:04.578 [info] Starting Pylance language server.

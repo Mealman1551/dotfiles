@@ -1,0 +1,26 @@
+2025-09-28 20:20:51.471 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-09-28 20:20:51.471 [info] Using the Electron fetcher.
+2025-09-28 20:20:51.471 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-09-28 20:20:51.471 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-09-28 20:20:51.471 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-09-28 20:20:53.811 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary,text-embedding-3-small-512. Deprecated: 
+2025-09-28 20:20:53.822 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary,text-embedding-3-small-512. Deprecated: 
+2025-09-28 20:20:53.822 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2025-09-28 20:20:54.998 [info] Logged in as Mealman1551
+2025-09-28 20:20:55.437 [info] FetcherService: electron-fetch succeeded
+2025-09-28 20:20:55.438 [info] FetcherService: electron-fetch succeeded
+2025-09-28 20:20:55.440 [info] Got Copilot token for Mealman1551
+2025-09-28 20:20:55.469 [info] activationBlocker from 'languageModelAccess' took for 4276ms
+2025-09-28 20:20:55.610 [error] GithubCodeSearchService::getRemoteIndexState(mealman1551/adc-compile-from-source). Failed to fetch indexing status. Response: 404. {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+2025-09-28 20:20:55.611 [error] CodeSearchRepoTracker::getIndexedStatus(mealman1551/adc-compile-from-source). Failed to fetch indexing status. Encountered eror: Error: Failed to fetch indexing status. Response: 404.
+2025-09-28 20:20:56.350 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-09-28 20:20:56.350 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-09-28 20:20:56.362 [info] Registering default platform agent...
+2025-09-28 20:20:56.363 [info] activationBlocker from 'conversationFeature' took for 5182ms
+2025-09-28 20:20:56.701 [error] GithubCodeSearchService::getRemoteIndexState(mealman1551/adc-compile-from-source). Failed to fetch indexing status. Response: 404. {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+2025-09-28 20:20:56.701 [error] CodeSearchRepoTracker::getIndexedStatus(mealman1551/adc-compile-from-source). Failed to fetch indexing status. Encountered eror: Error: Failed to fetch indexing status. Response: 404.
+2025-09-28 20:20:57.295 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-09-28 20:20:57.749 [info] Fetched model metadata in 6522ms 3eb2d962-10d4-481d-98c9-39ebd030fafa
+2025-09-28 20:20:58.182 [info] Latest entry: ccreq:latest.copilotmd
+2025-09-28 20:20:58.183 [info] ccreq:d6cabc6d.copilotmd | markdown
+2025-09-28 20:20:59.231 [info] Fetched auto model in 1017ms.

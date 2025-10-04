@@ -1,0 +1,7 @@
+2025-09-02 23:02:59.379 [info] [certificates] Removed 2 expired certificates
+2025-09-02 23:03:00.743 [info] [fetcher] Using Helix fetcher.
+2025-09-02 23:03:00.749 [info] [code-referencing] Public code references are enabled.
+2025-09-02 23:03:01.372 [info] [fetcher] Using Helix fetcher.
+2025-09-02 23:03:26.218 [info] [default] Context provider ms-vscode.cpptools exceeded time budget of 150ms
+2025-09-02 23:03:26.751 [info] [fetchCompletions] Request 4a42e821-24a6-431d-b77a-621d7c033c47 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 402.5031969999982ms
+2025-09-02 23:03:26.805 [info] [streamChoices] solution 0 returned. finish reason: [stop]

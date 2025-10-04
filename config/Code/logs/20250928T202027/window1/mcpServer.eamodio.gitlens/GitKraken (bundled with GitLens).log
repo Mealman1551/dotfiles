@@ -1,0 +1,8 @@
+2025-09-28 20:21:01.388 [info] Starting server GitKraken (bundled with GitLens)
+2025-09-28 20:21:01.388 [info] Connection state: Starting
+2025-09-28 20:21:01.388 [info] Starting server from LocalProcess extension host
+2025-09-28 20:21:01.399 [info] Connection state: Starting
+2025-09-28 20:21:01.400 [info] Connection state: Running
+2025-09-28 20:21:01.581 [info] Discovered 19 tools
+2025-09-28 20:22:38.579 [warning] Extension host shut down, server will stop.
+2025-09-28 20:22:38.580 [info] Connection state: Stopped

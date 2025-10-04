@@ -1,0 +1,90 @@
+2025-09-02 23:02:57.378 [info] Name: Black Formatter
+2025-09-02 23:02:57.378 [info] Module: black
+2025-09-02 23:02:57.378 [info] Default formatter is set to ms-python.black-formatter for workspace /home/nathan/adc-canary
+2025-09-02 23:02:57.378 [info] Python extension loading
+2025-09-02 23:02:57.378 [info] Waiting for interpreter from Python extension.
+2025-09-02 23:02:59.590 [info] No interpreter found from setting black-formatter.interpreter
+2025-09-02 23:02:59.590 [info] Getting interpreter from ms-python.python extension for workspace /home/nathan/adc-canary
+2025-09-02 23:02:59.615 [info] Python extension loaded
+2025-09-02 23:02:59.625 [info] Interpreter from ms-python.python extension for /home/nathan/adc-canary: /usr/bin/python3
+2025-09-02 23:02:59.625 [info] Workspace settings for /home/nathan/adc-canary (client side): {
+    "cwd": "/home/nathan/adc-canary",
+    "workspace": "file:///home/nathan/adc-canary",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/usr/bin/python3"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-09-02 23:02:59.626 [info] No interpreter found from setting black-formatter.interpreter
+2025-09-02 23:02:59.626 [info] Getting interpreter from ms-python.python extension for workspace /home/nathan/adc-canary
+2025-09-02 23:02:59.705 [info] Interpreter from ms-python.python extension for /home/nathan/adc-canary: /usr/bin/python3
+2025-09-02 23:02:59.705 [info] Workspace settings for /home/nathan/adc-canary (client side): {
+    "cwd": "/home/nathan/adc-canary",
+    "workspace": "file:///home/nathan/adc-canary",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/usr/bin/python3"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-09-02 23:02:59.740 [info] Global settings (client side): {
+    "cwd": "/home/nathan",
+    "workspace": "/home/nathan",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-09-02 23:02:59.847 [info] Server run command: /usr/bin/python3 /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/tool/lsp_server.py
+2025-09-02 23:02:59.850 [info] Server: Start requested.
+2025-09-02 23:03:03.157 [info] CWD Server: /home/nathan/adc-canary
+2025-09-02 23:03:03.172 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/nathan/adc-canary",
+        "workspace": "file:///home/nathan/adc-canary",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/usr/bin/python3"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-09-02 23:03:03.233 [info] Global settings received on server:
+{
+    "cwd": "/home/nathan",
+    "workspace": "/home/nathan",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-09-02 23:03:03.237 [info] sys.path used to run Server:
+   /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/libs
+   /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/nathan/.local/lib/python3.13/site-packages
+   /usr/local/lib/python3.13/dist-packages
+   /usr/lib/python3/dist-packages
+2025-09-02 23:03:03.242 [info] /usr/bin/python3 -m black --version
+2025-09-02 23:03:03.242 [info] CWD formatter: /home/nathan/adc-canary
+2025-09-02 23:03:04.053 [info] Version info for formatter running for /home/nathan/adc-canary:
+black, 25.1.0 (compiled: no)
+Python (CPython) 3.13.5
+
+2025-09-02 23:03:04.053 [info] SUPPORTED black>=22.3.0
+FOUND black==25.1.0
+

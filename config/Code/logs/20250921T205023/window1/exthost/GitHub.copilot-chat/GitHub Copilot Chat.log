@@ -1,0 +1,43 @@
+2025-09-21 20:50:49.861 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-09-21 20:50:49.861 [info] Using the Electron fetcher.
+2025-09-21 20:50:49.861 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-09-21 20:50:49.861 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-09-21 20:50:49.861 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-09-21 20:50:51.037 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary,text-embedding-3-small-512. Deprecated: 
+2025-09-21 20:50:51.050 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary,text-embedding-3-small-512. Deprecated: 
+2025-09-21 20:50:51.050 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2025-09-21 20:50:51.478 [info] Logged in as Mealman1551
+2025-09-21 20:50:51.712 [info] FetcherService: electron-fetch succeeded
+2025-09-21 20:50:51.796 [info] FetcherService: electron-fetch succeeded
+2025-09-21 20:50:51.801 [info] Got Copilot token for Mealman1551
+2025-09-21 20:50:51.850 [info] activationBlocker from 'languageModelAccess' took for 3134ms
+2025-09-21 20:50:51.892 [error] GithubCodeSearchService::getRemoteIndexState(mealman1551/adc-compile-from-source). Failed to fetch indexing status. Response: 404. {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+2025-09-21 20:50:51.893 [error] CodeSearchRepoTracker::getIndexedStatus(mealman1551/adc-compile-from-source). Failed to fetch indexing status. Encountered eror: Error: Failed to fetch indexing status. Response: 404.
+2025-09-21 20:50:52.268 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-09-21 20:50:52.268 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-09-21 20:50:52.317 [info] Registering default platform agent...
+2025-09-21 20:50:52.322 [info] activationBlocker from 'conversationFeature' took for 3619ms
+2025-09-21 20:50:52.416 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-09-21 20:50:52.631 [info] Fetched model metadata in 3034ms 9c499cc1-6700-4ea5-b51a-968481d37876
+2025-09-21 20:50:52.653 [info] Latest entry: ccreq:latest.copilotmd
+2025-09-21 20:50:52.656 [info] ccreq:b67dfe8f.copilotmd | markdown
+2025-09-21 20:50:53.244 [error] GithubCodeSearchService::getRemoteIndexState(mealman1551/adc-compile-from-source). Failed to fetch indexing status. Response: 404. {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+2025-09-21 20:50:53.244 [error] CodeSearchRepoTracker::getIndexedStatus(mealman1551/adc-compile-from-source). Failed to fetch indexing status. Encountered eror: Error: Failed to fetch indexing status. Response: 404.
+2025-09-28 16:49:21.831 [info] Logged in as Mealman1551
+2025-09-28 16:49:22.180 [info] FetcherService: electron-fetch succeeded
+2025-09-28 16:49:22.195 [info] FetcherService: electron-fetch succeeded
+2025-09-28 16:49:22.196 [info] Got Copilot token for Mealman1551
+2025-09-28 16:49:22.243 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-09-28 16:49:22.436 [error] GithubCodeSearchService::getRemoteIndexState(mealman1551/adc-compile-from-source). Failed to fetch indexing status. Response: 404. {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+2025-09-28 16:49:22.436 [error] CodeSearchRepoTracker::getIndexedStatus(mealman1551/adc-compile-from-source). Failed to fetch indexing status. Encountered eror: Error: Failed to fetch indexing status. Response: 404.
+2025-09-28 16:49:22.587 [info] Fetched model metadata in 1081ms 7208f52f-d19a-4336-98fd-656c209ccb49
+2025-09-28 16:49:22.596 [info] ccreq:5275e17e.copilotmd | markdown
+2025-09-28 16:49:28.014 [info] Refetch model metadata: Succeeded in 394ms 43b113a4-576c-4fe5-832c-552357f27d6b (AF36:559C7:53DBAD8:71FC783:68D94AF7) using electron-fetch with status 200.
+2025-09-28 16:49:28.441 [info] Refetch model metadata: Succeeded in 420ms f4115b2b-4d2f-41e8-b962-59f354693392 (AF64:346EDA:5245FD2:6EA6E04:68D94AF8) using node-fetch with status 200.
+2025-09-28 16:49:28.845 [info] Refetch model metadata: Succeeded in 391ms 2d2462ca-a16e-412c-8325-b48717af604b (8782:385F97:E7A8BA:160376C:68D94AF8) using node-http with status 200.
+2025-09-28 16:49:30.919 [info] message 0 returned. finish reason: [stop]
+2025-09-28 16:49:30.919 [info] request done: requestId: [4bcdd94b-53bf-4a0e-8551-ef576986457e] model deployment ID: []
+2025-09-28 16:49:30.923 [info] ccreq:7b42fa1c.copilotmd | success | gpt-4.1 | 2773ms | [panel/explain]
+2025-09-28 16:49:31.504 [info] message 0 returned. finish reason: [stop]
+2025-09-28 16:49:31.504 [info] request done: requestId: [d34abb2c-e93a-44ae-80e7-4c9db9a0d6c9] model deployment ID: []
+2025-09-28 16:49:31.508 [info] ccreq:eaf98eda.copilotmd | success | gpt-4o-mini | 490ms | [title]

@@ -1,0 +1,10 @@
+2025-09-05 19:38:29.242 [info] Deleted marked for removal extension from disk github.codespaces /home/nathan/.vscode/extensions/github.codespaces-1.17.3
+2025-09-05 19:38:29.284 [info] Deleted marked for removal extension from disk mechatroner.rainbow-csv /home/nathan/.vscode/extensions/mechatroner.rainbow-csv-3.20.0
+2025-09-05 19:38:29.290 [info] Deleted marked for removal extension from disk streetsidesoftware.code-spell-checker /home/nathan/.vscode/extensions/streetsidesoftware.code-spell-checker-4.0.47
+2025-09-05 19:38:47.832 [info] Getting Manifest... ms-vscode.cmake-tools
+2025-09-05 19:38:48.000 [info] Installing extension: ms-vscode.cmake-tools {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"}}
+2025-09-05 19:38:48.003 [info] Installing the extension without checking dependencies and pack ms-vscode.cmake-tools
+2025-09-05 19:38:54.467 [info] Extension signature verification result for ms-vscode.cmake-tools: Success. Internal Code: 0. Executed: true. Duration: 5524ms.
+2025-09-05 19:38:55.604 [info] Extracted extension to file:///home/nathan/.vscode/extensions/ms-vscode.cmake-tools-1.21.36: ms-vscode.cmake-tools
+2025-09-05 19:38:55.671 [info] Renamed to /home/nathan/.vscode/extensions/ms-vscode.cmake-tools-1.21.36
+2025-09-05 19:38:55.822 [info] Extension installed successfully: ms-vscode.cmake-tools vscode-userdata:/home/nathan/.vscode/extensions/extensions.json

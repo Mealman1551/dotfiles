@@ -1,0 +1,170 @@
+2025-09-28 20:36:38.068 [info] Extension host with pid 636345 started
+2025-09-28 20:36:38.068 [info] Skipping acquiring lock for /home/nathan/.config/Code/User/workspaceStorage/df34b6f072b7631cf3c5ad14cd5397e5.
+2025-09-28 20:36:38.861 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-09-28 20:36:38.946 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-09-28 20:36:38.956 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-28 20:36:39.009 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-09-28 20:36:39.049 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-09-28 20:36:39.350 [info] ExtensionService#_doActivateExtension zhyong10.markdown-html, startup: false, activationEvent: 'onLanguage:markdown'
+2025-09-28 20:36:40.260 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-28 20:36:40.271 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-09-28 20:36:40.496 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2025-09-28 20:36:40.548 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+2025-09-28 20:36:42.507 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-09-28 20:36:42.529 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-28 20:36:42.648 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-28 20:36:46.142 [info] ExtensionService#_doActivateExtension ms-python.black-formatter, startup: true, activationEvent: 'workspaceContains:*.py'
+2025-09-28 20:36:46.372 [info] Eager extensions activated
+2025-09-28 20:36:46.720 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:46.730 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:46.814 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:46.858 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:46.875 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:47.310 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:47.316 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:47.383 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:51.130 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:52.380 [info] ExtensionService#_doActivateExtension GitLab.gitlab-workflow, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:53.211 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:53.284 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:53.729 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:53.922 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:53.932 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-09-28 20:36:53.960 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-09-28 20:36:54.052 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-09-28 20:36:56.240 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-09-28 20:36:56.624 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-09-28 20:36:56.755 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-28 20:36:56.770 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-28 20:36:56.878 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-28 20:36:59.310 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.vscode-pylance
+2025-09-28 20:37:05.316 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-09-28 20:37:05.755 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-09-28 20:37:05.929 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-09-28 20:37:53.957 [warning] TextEditor is closed/disposed
+2025-09-28 20:38:04.984 [warning] TextEditor is closed/disposed
+2025-09-28 20:39:18.275 [error] Error: illegal state - object is disposed
+    at qP.j (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:100367)
+    at qP.delete (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:99885)
+    at W.forgetDocument (/home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist/vendor.bundle.js:2:7992156)
+    at h.cleanUpDocument (/home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist/vendor.bundle.js:2:8002356)
+    at od.value (/home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist/vendor.bundle.js:2:8001656)
+    at $.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at $.D (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at $.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at od.I [as value] (/home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist/vendor.bundle.js:2:1041034)
+    at $.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at $.D (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2443)
+    at $.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2660)
+    at Yy.$acceptTabOperation (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:24812)
+    at j4.S (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120180)
+    at j4.Q (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119960)
+    at j4.M (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119049)
+    at j4.L (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118154)
+    at od.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116951)
+    at $.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at $.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at vo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at od.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:8617)
+    at $.C (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+    at $.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+    at vo.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6909)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-28 20:39:18.475 [info] ExtensionService#_doActivateExtension alefragnani.rtf, startup: false, activationEvent: 'onLanguage:rtf'
+2025-09-28 20:39:26.063 [warning] TextEditor is closed/disposed
+2025-09-28 20:39:29.486 [warning] TextEditor is closed/disposed
+2025-09-28 20:39:33.541 [warning] TextEditor is closed/disposed
+2025-09-28 20:39:35.140 [warning] TextEditor is closed/disposed
+2025-09-28 20:39:48.654 [warning] TextEditor is closed/disposed
+2025-09-28 20:40:48.105 [warning] TextEditor is closed/disposed
+2025-09-28 20:42:38.723 [warning] TextEditor is closed/disposed
+2025-09-28 20:45:26.736 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model22)
+2025-09-28 20:45:30.693 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-28 20:45:30.766 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2025-09-28 20:45:30.789 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:122315)
+    at C0.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:24558)
+    at C0.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:24654)
+    at Object.dispose (/home/nathan/.vscode/extensions/eamodio.gitlens-17.5.1/dist/gitlens.js:2115:29281)
+    at /home/nathan/.vscode/extensions/eamodio.gitlens-17.5.1/dist/gitlens.js:2394:17172
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/nathan/.vscode/extensions/eamodio.gitlens-17.5.1/dist/gitlens.js:2394:17154)
+    at zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:15158
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at aJ.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12031)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at aJ.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at aJ.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at RP.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at bs (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:10410)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6949)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-28 20:45:30.819 [error] An error occurred when disposing the subscriptions for extension 'Gruntfuggly.todo-tree':
+2025-09-28 20:45:30.820 [error] AggregateError: Encountered errors while disposing of store
+    at zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:822)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:15158
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at aJ.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12031)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at aJ.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at aJ.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at RP.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at bs (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:10410)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6949)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-28 20:45:30.850 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+    at Object.X [as deactivate] (/home/nathan/.vscode/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64/dist/extension.js:2:662977)
+    at aJ.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at aJ.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at aJ.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at RP.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at bs (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:10410)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6949)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-28 20:45:30.909 [error] Error: Channel has been closed
+    at n (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:2816)
+    at Object.info (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:3161)
+    at T.info (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600187)
+    at ChildProcess.emit (node:events:518:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-09-28 20:45:30.913 [error] Error: Channel has been closed
+    at s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:2431)
+    at Object.appendLine (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:2570)
+    at w.logTrace (/home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:137721)
+    at Object.log (/home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:131214)
+    at /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:87916
+    at /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:88111
+    at ie (/home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:88476)
+    at /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:83260
+    at Immediate.<anonymous> (/home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:83280)
+    at processImmediate (node:internal/timers:485:21)
+2025-09-28 20:45:30.940 [error] Error: Channel has been closed
+    at n (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:2816)
+    at Object.info (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:3161)
+    at g.info (/home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist/vendor.bundle.js:2:1052200)
+    at ChildProcess.<anonymous> (/home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist/vendor.bundle.js:2:9247)
+    at ChildProcess.emit (node:events:518:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-09-28 20:45:32.834 [error] Error: Channel has been closed
+    at s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:2431)
+    at Object.appendLine (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:2570)
+    at w.logOutputMessage (/home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:137148)
+    at w.error (/home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:137039)
+    at /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:145414
+    at Object.t.deactivate (/home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/dist/extension.js:1:69280)
+    at async Promise.all (index 29)
+    at aJ.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10000)
+2025-09-28 20:45:32.834 [info] Extension host with pid 636345 exiting with code 0

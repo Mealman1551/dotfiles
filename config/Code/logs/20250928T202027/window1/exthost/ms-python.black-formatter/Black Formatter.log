@@ -1,0 +1,90 @@
+2025-09-28 20:20:50.384 [info] Name: Black Formatter
+2025-09-28 20:20:50.384 [info] Module: black
+2025-09-28 20:20:50.384 [info] Default formatter is set to ms-python.black-formatter for workspace /home/nathan/ADC-compile-from-source
+2025-09-28 20:20:50.384 [info] Python extension loading
+2025-09-28 20:20:50.384 [info] Waiting for interpreter from Python extension.
+2025-09-28 20:20:51.906 [info] No interpreter found from setting black-formatter.interpreter
+2025-09-28 20:20:51.906 [info] Getting interpreter from ms-python.python extension for workspace /home/nathan/ADC-compile-from-source
+2025-09-28 20:20:51.940 [info] Python extension loaded
+2025-09-28 20:20:51.944 [info] Interpreter from ms-python.python extension for /home/nathan/ADC-compile-from-source: /bin/python3
+2025-09-28 20:20:51.944 [info] Workspace settings for /home/nathan/ADC-compile-from-source (client side): {
+    "cwd": "/home/nathan/ADC-compile-from-source",
+    "workspace": "file:///home/nathan/ADC-compile-from-source",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python3"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-09-28 20:20:51.945 [info] No interpreter found from setting black-formatter.interpreter
+2025-09-28 20:20:51.945 [info] Getting interpreter from ms-python.python extension for workspace /home/nathan/ADC-compile-from-source
+2025-09-28 20:20:51.953 [info] Interpreter from ms-python.python extension for /home/nathan/ADC-compile-from-source: /bin/python3
+2025-09-28 20:20:51.953 [info] Workspace settings for /home/nathan/ADC-compile-from-source (client side): {
+    "cwd": "/home/nathan/ADC-compile-from-source",
+    "workspace": "file:///home/nathan/ADC-compile-from-source",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python3"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-09-28 20:20:51.957 [info] Global settings (client side): {
+    "cwd": "/home/nathan",
+    "workspace": "/home/nathan",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-09-28 20:20:54.020 [info] Server run command: /bin/python3 /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/tool/lsp_server.py
+2025-09-28 20:20:54.025 [info] Server: Start requested.
+2025-09-28 20:20:56.414 [info] CWD Server: /home/nathan/ADC-compile-from-source
+2025-09-28 20:20:56.415 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/nathan/ADC-compile-from-source",
+        "workspace": "file:///home/nathan/ADC-compile-from-source",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python3"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-09-28 20:20:56.416 [info] Global settings received on server:
+{
+    "cwd": "/home/nathan",
+    "workspace": "/home/nathan",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-09-28 20:20:56.416 [info] sys.path used to run Server:
+   /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/libs
+   /home/nathan/.vscode/extensions/ms-python.black-formatter-2025.2.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/nathan/.local/lib/python3.13/site-packages
+   /usr/local/lib/python3.13/dist-packages
+   /usr/lib/python3/dist-packages
+2025-09-28 20:20:56.417 [info] /bin/python3 -m black --version
+2025-09-28 20:20:56.417 [info] CWD formatter: /home/nathan/ADC-compile-from-source
+2025-09-28 20:20:56.706 [info] Version info for formatter running for /home/nathan/ADC-compile-from-source:
+black, 25.1.0 (compiled: no)
+Python (CPython) 3.13.5
+
+2025-09-28 20:20:56.707 [info] SUPPORTED black>=22.3.0
+FOUND black==25.1.0
+

@@ -1,0 +1,4 @@
+2025-09-14 15:56:34.716 [error] Invalid path provided: /home/nathan/Downloads/ptyxis-main/src, ENOENT: no such file or directory, stat '/home/nathan/Downloads/ptyxis-main/src'
+2025-09-14 15:56:34.932 [info] update#setState idle
+2025-09-14 15:57:05.047 [info] update#setState checking for updates
+2025-09-14 15:57:47.268 [info] update#setState idle

@@ -1,0 +1,16 @@
+2025-09-29 18:45:00.366 [info] (Client) Pylance client (2025.8.2) started with python extension (2025.14.0)
+2025-09-29 18:45:03.460 [info] (2773384) Server root directory: file:///home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist
+2025-09-29 18:45:03.492 [info] (2773384) Pylance language server 2025.8.2 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-09-29 18:45:03.492 [info] (2773384) Starting service instance "ADC-compile-from-source" for workspace "/home/nathan/ADC-compile-from-source"
+2025-09-29 18:45:03.593 [info] (2773384) Starting Mcp server id:3055 ...
+2025-09-29 18:45:03.674 [info] (2773384) Setting environmentName for service "ADC-compile-from-source": "3.11.2 (global)"
+2025-09-29 18:45:03.675 [info] (2773384) Setting pythonPath for service "ADC-compile-from-source": "/usr/bin/python3"
+2025-09-29 18:45:03.676 [info] (2773384) No include entries specified; assuming /home/nathan/ADC-compile-from-source
+2025-09-29 18:45:03.677 [info] (2773384) Auto-excluding **/node_modules
+2025-09-29 18:45:03.679 [info] (2773384) Auto-excluding **/__pycache__
+2025-09-29 18:45:03.679 [info] (2773384) Auto-excluding **/.*
+2025-09-29 18:45:03.731 [info] (2773384) Assuming Python version 3.13.5.final.0
+2025-09-29 18:45:03.887 [info] (2773384) Found 2 source files
+2025-09-29 18:45:03.994 [info] (2773384) Settings have not changed. Skipping update.
+2025-09-29 18:45:05.254 [info] (2773384) BG: Priority queue background worker(2) root directory: file:///home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist
+2025-09-29 18:45:05.256 [info] (2773384) BG: Priority queue background worker(2) started

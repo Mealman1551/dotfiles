@@ -1,0 +1,127 @@
+2025-09-21 13:56:29.302 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:29.358 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:29.433 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:29.672 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:29.717 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:30.133 [info] Marked extension as removed github.copilot-1.368.0
+2025-09-21 13:56:30.136 [info] Marked extension as removed github.copilot-chat-0.31.0
+2025-09-21 13:56:30.136 [info] Marked extension as removed gitlab.gitlab-workflow-6.42.2
+2025-09-21 13:56:30.136 [info] Marked extension as removed ms-python.vscode-python-envs-1.6.0-linux-x64
+2025-09-21 13:56:30.137 [info] Marked extension as removed ms-vscode-remote.remote-wsl-0.104.1
+2025-09-21 13:56:30.144 [info] Marked extension as removed ms-vscode.live-server-0.4.16
+2025-09-21 13:56:30.238 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:30.776 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:31.336 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:31.600 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:32.452 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:33.834 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:34.826 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:38.124 [info] Getting Manifest... github.copilot
+2025-09-21 13:56:38.124 [info] Getting Manifest... github.copilot-chat
+2025-09-21 13:56:38.140 [info] Getting Manifest... gitlab.gitlab-workflow
+2025-09-21 13:56:38.150 [info] Getting Manifest... mechatroner.rainbow-csv
+2025-09-21 13:56:38.168 [info] Getting Manifest... ms-dotnettools.csdevkit
+2025-09-21 13:56:38.182 [info] Getting Manifest... ms-dotnettools.csharp
+2025-09-21 13:56:38.188 [info] Getting Manifest... ms-python.python
+2025-09-21 13:56:38.200 [info] Getting Manifest... ms-python.vscode-pylance
+2025-09-21 13:56:38.208 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-09-21 13:56:38.213 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2025-09-21 13:56:38.218 [info] Getting Manifest... ms-vscode.cpptools
+2025-09-21 13:56:38.225 [info] Getting Manifest... ms-vscode.live-server
+2025-09-21 13:56:38.254 [info] Installing extension: github.copilot {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.271 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.335 [info] Installing extension: mechatroner.rainbow-csv {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.355 [info] Installing extension: gitlab.gitlab-workflow {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.359 [info] Installing extension: ms-dotnettools.csdevkit {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.366 [info] Installing extension: ms-dotnettools.csharp {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.370 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.373 [info] Installing extension: ms-vscode-remote.remote-wsl {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.382 [info] Installing extension: ms-vscode.cpptools {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.390 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.393 [info] Installing extension: ms-python.vscode-python-envs {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.399 [info] Installing extension: ms-vscode.live-server {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-21 13:56:38.530 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:39.210 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2025-09-21 13:56:39.215 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2025-09-21 13:56:39.243 [info] Getting Manifest... ms-dotnettools.csharp
+2025-09-21 13:56:39.276 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:39.448 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:39.576 [info] Removed the extension from removed list: ms-vscode.live-server
+2025-09-21 13:56:39.773 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:40.022 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:40.084 [info] Extension installed successfully: ms-vscode.live-server vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:56:40.163 [info] Marked extension as removed ms-vscode.live-server-0.4.15
+2025-09-21 13:56:46.798 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Internal Code: 0. Executed: true. Duration: 6097ms.
+2025-09-21 13:56:46.976 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:47.060 [info] Extension signature verification result for ms-vscode-remote.remote-wsl: Success. Internal Code: 0. Executed: true. Duration: 5867ms.
+2025-09-21 13:56:47.228 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 7389ms.
+2025-09-21 13:56:47.380 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 5823ms.
+2025-09-21 13:56:47.600 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 6929ms.
+2025-09-21 13:56:48.436 [info] Extension signature verification result for gitlab.gitlab-workflow: Success. Internal Code: 0. Executed: true. Duration: 6374ms.
+2025-09-21 13:56:49.092 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 7791ms.
+2025-09-21 13:56:49.528 [info] Extension signature verification result for ms-dotnettools.csdevkit: Success. Internal Code: 0. Executed: true. Duration: 8923ms.
+2025-09-21 13:56:49.559 [info] Extracted extension to file:///home/nathan/.vscode/extensions/mechatroner.rainbow-csv-3.22.0: mechatroner.rainbow-csv
+2025-09-21 13:56:49.651 [info] Renamed to /home/nathan/.vscode/extensions/mechatroner.rainbow-csv-3.22.0
+2025-09-21 13:56:49.686 [info] Extracted extension to file:///home/nathan/.vscode/extensions/ms-vscode-remote.remote-wsl-0.104.2: ms-vscode-remote.remote-wsl
+2025-09-21 13:56:49.882 [info] Marked extension as removed mechatroner.rainbow-csv-3.21.0
+2025-09-21 13:56:49.896 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:49.917 [info] Extension installed successfully: mechatroner.rainbow-csv vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:56:49.928 [info] Renamed to /home/nathan/.vscode/extensions/ms-vscode-remote.remote-wsl-0.104.2
+2025-09-21 13:56:50.080 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:50.097 [info] Extension installed successfully: ms-vscode-remote.remote-wsl vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:56:50.134 [info] Marked extension as removed ms-vscode-remote.remote-wsl-0.99.0
+2025-09-21 13:56:51.553 [info] Extension signature verification result for ms-vscode.cpptools: Success. Internal Code: 0. Executed: true. Duration: 5907ms.
+2025-09-21 13:56:51.587 [info] Extension signature verification result for ms-dotnettools.csharp: Success. Internal Code: 0. Executed: true. Duration: 11036ms.
+2025-09-21 13:56:51.625 [info] Extracted extension to file:///home/nathan/.vscode/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64: ms-python.vscode-python-envs
+2025-09-21 13:56:51.659 [info] Renamed to /home/nathan/.vscode/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64
+2025-09-21 13:56:51.791 [info] Marked extension as removed ms-python.vscode-python-envs-1.2.0-linux-x64
+2025-09-21 13:56:51.823 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:51.833 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:56:52.927 [info] Extracted extension to file:///home/nathan/.vscode/extensions/github.copilot-chat-0.31.1: github.copilot-chat
+2025-09-21 13:56:52.955 [info] Renamed to /home/nathan/.vscode/extensions/github.copilot-chat-0.31.1
+2025-09-21 13:56:53.093 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
+2025-09-21 13:56:53.152 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:56:53.158 [info] Marked extension as removed github.copilot-chat-0.30.3
+2025-09-21 13:56:55.632 [info] Extracted extension to file:///home/nathan/.vscode/extensions/github.copilot-1.372.0: github.copilot
+2025-09-21 13:56:55.712 [info] Renamed to /home/nathan/.vscode/extensions/github.copilot-1.372.0
+2025-09-21 13:56:56.167 [info] Marked extension as removed github.copilot-1.364.0
+2025-09-21 13:56:56.176 [info] Extension installed successfully: github.copilot vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:56:58.781 [info] Extracted extension to file:///home/nathan/.vscode/extensions/gitlab.gitlab-workflow-6.44.1: gitlab.gitlab-workflow
+2025-09-21 13:56:58.867 [info] Renamed to /home/nathan/.vscode/extensions/gitlab.gitlab-workflow-6.44.1
+2025-09-21 13:56:58.904 [info] Marked extension as removed gitlab.gitlab-workflow-6.40.1
+2025-09-21 13:56:59.070 [info] Extension installed successfully: gitlab.gitlab-workflow vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:57:06.407 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 4283ms.
+2025-09-21 13:57:10.129 [info] Extracted extension to file:///home/nathan/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-linux-x64: ms-dotnettools.csdevkit
+2025-09-21 13:57:10.354 [info] Renamed to /home/nathan/.vscode/extensions/ms-dotnettools.csdevkit-1.50.51-linux-x64
+2025-09-21 13:57:10.778 [info] Extension installed successfully: ms-dotnettools.csdevkit vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:57:10.784 [info] Marked extension as removed ms-dotnettools.csdevkit-1.41.11-linux-x64
+2025-09-21 13:57:12.324 [info] Extracted extension to file:///home/nathan/.vscode/extensions/ms-python.python-2025.14.0-linux-x64: ms-python.python
+2025-09-21 13:57:12.738 [info] Renamed to /home/nathan/.vscode/extensions/ms-python.python-2025.14.0-linux-x64
+2025-09-21 13:57:12.932 [info] Marked extension as removed ms-python.python-2025.12.0-linux-x64
+2025-09-21 13:57:13.071 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:57:20.056 [info] Getting Manifest... formulahendry.code-runner
+2025-09-21 13:57:20.056 [info] Getting Manifest... damien.autoit
+2025-09-21 13:57:20.614 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"}}
+2025-09-21 13:57:20.616 [info] Installing extension: damien.autoit {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"}}
+2025-09-21 13:57:20.617 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2025-09-21 13:57:20.617 [info] Installing the extension without checking dependencies and pack damien.autoit
+2025-09-21 13:57:24.199 [info] Extension signature verification result for formulahendry.code-runner: Success. Internal Code: 0. Executed: true. Duration: 3030ms.
+2025-09-21 13:57:25.555 [info] Extracted extension to file:///home/nathan/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2025-09-21 13:57:25.662 [info] Renamed to /home/nathan/.vscode/extensions/formulahendry.code-runner-0.12.2
+2025-09-21 13:57:25.951 [info] Extension signature verification result for damien.autoit: Success. Internal Code: 0. Executed: true. Duration: 3176ms.
+2025-09-21 13:57:26.061 [info] Extracted extension to file:///home/nathan/.vscode/extensions/ms-vscode.cpptools-1.27.7-linux-x64: ms-vscode.cpptools
+2025-09-21 13:57:26.209 [info] Renamed to /home/nathan/.vscode/extensions/ms-vscode.cpptools-1.27.7-linux-x64
+2025-09-21 13:57:26.388 [info] Marked extension as removed ms-vscode.cpptools-1.26.3-linux-x64
+2025-09-21 13:57:26.441 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:57:26.730 [info] Extracted extension to file:///home/nathan/.vscode/extensions/damien.autoit-1.0.14: damien.autoit
+2025-09-21 13:57:26.749 [info] Renamed to /home/nathan/.vscode/extensions/damien.autoit-1.0.14
+2025-09-21 13:57:26.936 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:57:26.936 [info] Extension installed successfully: damien.autoit vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:57:35.044 [info] Extracted extension to file:///home/nathan/.vscode/extensions/ms-dotnettools.csharp-2.90.60-linux-x64: ms-dotnettools.csharp
+2025-09-21 13:57:35.216 [info] Renamed to /home/nathan/.vscode/extensions/ms-dotnettools.csharp-2.90.60-linux-x64
+2025-09-21 13:57:35.335 [info] Marked extension as removed ms-dotnettools.csharp-2.87.31-linux-x64
+2025-09-21 13:57:35.448 [info] Extension installed successfully: ms-dotnettools.csharp vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-21 13:57:43.684 [info] Extracted extension to file:///home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2: ms-python.vscode-pylance
+2025-09-21 13:57:44.277 [info] Renamed to /home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2
+2025-09-21 13:57:44.431 [info] Marked extension as removed ms-python.vscode-pylance-2025.7.1
+2025-09-21 13:57:44.449 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/nathan/.vscode/extensions/extensions.json

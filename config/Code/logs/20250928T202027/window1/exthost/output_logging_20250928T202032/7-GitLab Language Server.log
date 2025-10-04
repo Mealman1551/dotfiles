@@ -1,0 +1,23 @@
+2025-09-28T20:20:54:315 [info]: fetch: Detected no proxy settings
+2025-09-28T20:20:54:403 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-09-28T20:20:54:864 [info]: GitLab Language Server is starting (v8.15.0)
+2025-09-28T20:20:54:868 [info]: Applying 4 endpoints to connection.
+2025-09-28T20:20:55:054 [info]: [HttpServer]: server listening on http://127.0.0.1:39359/
+2025-09-28T20:20:55:061 [info]: GitLab Language Server has started
+2025-09-28T20:20:55:153 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-28T20:20:55:160 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-28T20:20:55:161 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-28T20:20:55:165 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+[Error - 20:20:55] (node:561095) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+2025-09-28T20:20:55:166 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+[Error - 20:20:55] (node:561095) [FSTDPE022] FastifyWarning: The router options for ignoreTrailingSlash property access is deprecated. Please use "options.routerOptions" instead for accessing router options. The router options will be removed in `fastify@6`.
+2025-09-28T20:20:55:280 [info]: [VirtualFileSystemService] Registering watchers
+2025-09-28T20:20:55:385 [warning]: Knowledge Graph binary (gkg) not found. Please ensure the Knowledge Graph binary is installed and available in your PATH.
+2025-09-28T20:22:07:984 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/README.md
+2025-09-28T20:22:11:303 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/index.lock
+2025-09-28T20:22:11:304 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/index
+2025-09-28T20:22:11:305 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/refs/heads/main
+2025-09-28T20:22:11:305 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/COMMIT_EDITMSG
+2025-09-28T20:22:11:307 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/.git/index.lock
+2025-09-28T20:22:34:025 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC-compile-from-source/README.md

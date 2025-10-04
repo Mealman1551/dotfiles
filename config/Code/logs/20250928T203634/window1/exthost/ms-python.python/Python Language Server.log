@@ -1,0 +1,39 @@
+2025-09-28 20:37:00.595 [info] (Client) Pylance client (2025.8.2) started with python extension (2025.14.0)
+2025-09-28 20:37:05.023 [info] (638301) Server root directory: file:///home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist
+2025-09-28 20:37:05.027 [info] (638301) Pylance language server 2025.8.2 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-09-28 20:37:05.052 [info] (638301) Starting service instance "ADC-compile-from-source" for workspace "/home/nathan/ADC-compile-from-source"
+2025-09-28 20:37:05.226 [info] (638301) Starting Mcp server id:3437 ...
+2025-09-28 20:37:05.389 [info] (638301) Setting environmentName for service "ADC-compile-from-source": "3.11.2 (global)"
+2025-09-28 20:37:05.393 [info] (638301) Setting pythonPath for service "ADC-compile-from-source": "/usr/bin/python3"
+2025-09-28 20:37:05.394 [info] (638301) No include entries specified; assuming /home/nathan/ADC-compile-from-source
+2025-09-28 20:37:05.394 [info] (638301) Auto-excluding **/node_modules
+2025-09-28 20:37:05.394 [info] (638301) Auto-excluding **/__pycache__
+2025-09-28 20:37:05.395 [info] (638301) Auto-excluding **/.*
+2025-09-28 20:37:05.495 [info] (638301) Assuming Python version 3.13.5.final.0
+2025-09-28 20:37:05.758 [info] (638301) Found 2 source files
+2025-09-28 20:37:05.842 [info] (638301) Settings have not changed. Skipping update.
+2025-09-28 20:37:07.399 [info] (638301) BG: Priority queue background worker(2) root directory: file:///home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist
+2025-09-28 20:37:07.400 [info] (638301) BG: Priority queue background worker(2) started
+2025-09-28 20:37:58.360 [info] (638301) Starting service instance "<default>" for workspace ""
+2025-09-28 20:37:58.803 [info] (638301) Setting environmentName for service "<default>": "3.11.2 (global)"
+2025-09-28 20:37:58.806 [info] (638301) Setting pythonPath for service "<default>": "/usr/bin/python3"
+2025-09-28 20:37:58.807 [info] (638301) No include entries specified; assuming /<default workspace root>
+2025-09-28 20:37:58.816 [info] (638301) Auto-excluding **/node_modules
+2025-09-28 20:37:58.817 [info] (638301) Auto-excluding **/__pycache__
+2025-09-28 20:37:58.822 [info] (638301) Auto-excluding **/.*
+2025-09-28 20:37:58.955 [info] (638301) Assuming Python version 3.13.5.final.0
+2025-09-28 20:37:59.443 [error] (638301) File or directory "/<default workspace root>" does not exist.
+2025-09-28 20:37:59.450 [info] (638301) No source files found.
+2025-09-28 20:37:59.908 [info] (638301) BG: [BG(1)] Long operation: SemanticTokens range 0:0 - 78:26 at file:///home/nathan/ADC-compile-from-source/get-pip.py (2111ms)
+2025-09-28 20:37:59.968 [info] (638301) BG: Indexer background runner(3) root directory: file:///home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist (index)
+2025-09-28 20:37:59.968 [info] (638301) BG: Indexing(3) started
+2025-09-28 20:38:02.484 [info] (638301) BG: [BG(1)] Long operation: checking: file:///home/nathan/ADC-compile-from-source/get-pip.py (2338ms)
+2025-09-28 20:38:02.484 [info] (638301) BG: [BG(1)] Long operation: analyzing: file:///home/nathan/ADC-compile-from-source/get-pip.py (2343ms)
+2025-09-28 20:38:02.582 [info] (638301) BG: Priority queue background worker(5) root directory: file:///home/nathan/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist
+2025-09-28 20:38:02.588 [info] (638301) BG: Priority queue background worker(5) started
+2025-09-28 20:38:02.871 [info] (638301) BG: [IDX(3)] Long operation: scan packages file:///home/nathan/ADC-compile-from-source (2506ms)
+2025-09-28 20:38:02.871 [info] (638301) BG: scanned(3) 644 files over 1 exec env
+2025-09-28 20:38:05.401 [info] (638301) BG: [IDX(3)] Long operation: index execution environment file:///home/nathan/ADC-compile-from-source (2308ms)
+2025-09-28 20:38:05.406 [info] (638301) BG: [IDX(3)] Long operation: index packages file:///home/nathan/ADC-compile-from-source (2348ms)
+2025-09-28 20:38:05.406 [info] (638301) BG: indexed(3) 644 files over 1 exec env
+2025-09-28 20:38:05.695 [info] (638301) BG: Indexing finished(3).

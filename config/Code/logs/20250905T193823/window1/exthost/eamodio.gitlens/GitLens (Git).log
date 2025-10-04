@@ -1,0 +1,12 @@
+2025-09-05 19:38:46.880 [info] [2025-09-05 17:38:45.259] [*      1147ms] [/home/nathan/Downloads/ptyxis-main/src] git rev-parse --show-toplevel (slow) • FAILED
+2025-09-05 19:38:46.881 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-05 19:39:53.992 [info] [2025-09-05 17:39:52.930] [        192ms] [/home/nathan/Downloads/ptyxis-main/src] git rev-parse --show-toplevel • FAILED
+2025-09-05 19:39:53.992 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-09-05 19:39:54.169 [info] [2025-09-05 17:39:54.169] [        126ms] [/home/nathan/Downloads/ptyxis-main/src] git rev-parse --show-toplevel • FAILED
+2025-09-05 19:39:54.169 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

@@ -1,0 +1,152 @@
+2025-09-05 19:38:28.696 [info] Extension host with pid 559113 started
+2025-09-05 19:38:31.605 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-09-05 19:38:31.704 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-09-05 19:38:31.718 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-05 19:38:31.785 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2025-09-05 19:38:32.327 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-05 19:38:32.341 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-09-05 19:38:32.623 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2025-09-05 19:38:34.006 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-05 19:38:34.166 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-05 19:38:34.961 [info] Eager extensions activated
+2025-09-05 19:38:35.024 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:35.037 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:35.195 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:35.284 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:35.309 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:35.942 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:35.952 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:39.567 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:40.000 [info] ExtensionService#_doActivateExtension GitLab.gitlab-workflow, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:41.443 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:41.580 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:42.507 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:42.723 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:42.742 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:42.926 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:38:46.445 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-05 19:38:46.478 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-05 19:38:46.627 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-05 19:39:16.823 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-09-05 19:39:27.094 [info] ExtensionService#_doActivateExtension firefox-devtools.vscode-firefox-debug, startup: false, activationEvent: 'onDebug'
+2025-09-05 19:39:27.117 [info] ExtensionService#_doActivateExtension rogalmic.bash-debug, startup: false, activationEvent: 'onDebug'
+2025-09-05 19:39:27.340 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-09-05 19:39:37.300 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-05 19:39:37.382 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2025-09-05 19:39:37.403 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:122290)
+    at Kv.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:8921)
+    at Kv.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:9017)
+    at Object.dispose (/home/nathan/.vscode/extensions/eamodio.gitlens-17.4.1/dist/gitlens.js:111:29281)
+    at /home/nathan/.vscode/extensions/eamodio.gitlens-17.4.1/dist/gitlens.js:390:17184
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/nathan/.vscode/extensions/eamodio.gitlens-17.4.1/dist/gitlens.js:390:17166)
+    at Bi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:15158
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at LZ.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12031)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at LZ.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at LZ.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at E3.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at ws (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:10154)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:6693)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-05 19:39:37.440 [error] An error occurred when disposing the subscriptions for extension 'Gruntfuggly.todo-tree':
+2025-09-05 19:39:37.441 [error] AggregateError: Encountered errors while disposing of store
+    at Bi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:822)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:15158
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at LZ.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12031)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at LZ.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at LZ.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at E3.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at ws (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:10154)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:6693)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-05 19:39:37.498 [error] Error: Channel has been closed
+    at n (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:2816)
+    at Object.info (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:3161)
+    at T.info (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+    at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:599801)
+    at ChildProcess.emit (node:events:518:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-09-05 19:39:37.502 [info] Extension host with pid 559113 exiting with code 0
+2025-09-05 19:39:40.869 [info] Extension host with pid 564571 started
+2025-09-05 19:39:40.869 [info] Skipping acquiring lock for /home/nathan/.config/Code/User/workspaceStorage/a3c111280afaaa30d60ce0d0475a0a7a.
+2025-09-05 19:39:41.802 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-09-05 19:39:41.868 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-09-05 19:39:41.876 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-05 19:39:41.920 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2025-09-05 19:39:42.888 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-05 19:39:42.894 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-09-05 19:39:43.037 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2025-09-05 19:39:43.128 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2025-09-05 19:39:43.959 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-05 19:39:44.125 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-05 19:39:44.674 [info] Eager extensions activated
+2025-09-05 19:39:44.930 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:44.936 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:44.986 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:45.008 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:45.016 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:45.375 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:45.378 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:48.371 [info] ExtensionService#_doActivateExtension GitLab.gitlab-workflow, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:49.265 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:50.440 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:50.973 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:51.168 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:51.180 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:39:51.393 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-09-05 19:40:01.064 [info] ExtensionService#_doActivateExtension firefox-devtools.vscode-firefox-debug, startup: false, activationEvent: 'onDebug'
+2025-09-05 19:40:01.095 [info] ExtensionService#_doActivateExtension rogalmic.bash-debug, startup: false, activationEvent: 'onDebug'
+2025-09-05 19:40:01.548 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-09-05 19:40:13.330 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-05 19:40:13.376 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2025-09-05 19:40:13.389 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:122290)
+    at Kv.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:8921)
+    at Kv.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:9017)
+    at Object.dispose (/home/nathan/.vscode/extensions/eamodio.gitlens-17.4.1/dist/gitlens.js:111:29281)
+    at /home/nathan/.vscode/extensions/eamodio.gitlens-17.4.1/dist/gitlens.js:390:17184
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/nathan/.vscode/extensions/eamodio.gitlens-17.4.1/dist/gitlens.js:390:17166)
+    at Bi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:746)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:15158
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at LZ.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12031)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at LZ.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at LZ.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at E3.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at ws (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:10154)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:6693)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-05 19:40:13.439 [error] An error occurred when disposing the subscriptions for extension 'Gruntfuggly.todo-tree':
+2025-09-05 19:40:13.441 [error] AggregateError: Encountered errors while disposing of store
+    at Bi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:822)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:15158
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1056
+    at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at LZ.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12031)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at LZ.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at LZ.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at E3.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at ws (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:10154)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:6693)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-05 19:40:13.558 [info] Extension host with pid 564571 exiting with code 0

@@ -1,0 +1,7 @@
+2025-09-02 23:03:57.707 [info] No C# project is found in the workspace.
+2025-09-02 23:04:03.794 [info] Starting Spawn .NET server...
+2025-09-02 23:04:03.794 [info] Using dotnet resolution provided by ".NET Install Tool".
+2025-09-02 23:04:04.007 [info] Using acquired .NET runtime at "/home/nathan/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.8~x64~aspnetcore/dotnet"
+2025-09-02 23:04:04.078 [info] Could not find installed SDK.
+2025-09-02 23:04:05.722 [info] C# Dev Kit deactivate() is now executing...
+2025-09-02 23:04:05.803 [info] registerIdentityService: Failed to initialization. Error: 'Canceled: Canceled'

@@ -1,0 +1,20 @@
+2025-09-29 18:42:02.552 [info] Starting Python Locator /home/nathan/.vscode/extensions/ms-python.python-2025.14.0-linux-x64/python-env-tools/bin/pet server
+2025-09-29 18:42:02.552 [info] Discovered env: /usr/bin/python3
+2025-09-29 18:42:02.552 [info] Discovered env: /bin/python3
+2025-09-29 18:42:02.552 [info] Locator Conda took 111.118892ms
+2025-09-29 18:42:02.552 [info] Locator Homebrew took 138.463µs
+2025-09-29 18:42:02.552 [info] Locator LinuxGlobal took 181.11149ms
+2025-09-29 18:42:02.552 [info] Locator PipEnv took 57.889µs
+2025-09-29 18:42:02.552 [info] Locator Pixi took 44.933µs
+2025-09-29 18:42:02.552 [info] Locator Poetry took 435.557µs
+2025-09-29 18:42:02.552 [info] Locator PyEnv took 214.541µs
+2025-09-29 18:42:02.552 [info] Locator Venv took 44.01µs
+2025-09-29 18:42:02.552 [info] Locator VirtualEnv took 44.945µs
+2025-09-29 18:42:02.552 [info] Locator VirtualEnvWrapper took 95.752µs
+2025-09-29 18:42:02.552 [info] Locator GlobalVirtualEnvs took 199.176µs
+2025-09-29 18:42:02.552 [info] Locator Locators took 187.066403ms
+2025-09-29 18:42:02.552 [info] Locator Path took 219.660081ms
+2025-09-29 18:42:02.552 [info] Locator Workspaces took 16.611346ms
+2025-09-29 18:42:02.552 [info] Refresh completed in 220ms
+2025-09-29 18:42:04.448 [info] Resolved Python Environment /usr/bin/python3
+2025-09-29 18:42:19.182 [info] Resolved Python Environment /bin/python3

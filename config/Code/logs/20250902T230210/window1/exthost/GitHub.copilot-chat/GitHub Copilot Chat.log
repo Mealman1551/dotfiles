@@ -1,0 +1,36 @@
+2025-09-02 23:02:21.701 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-09-02 23:02:21.701 [info] Using the Electron fetcher.
+2025-09-02 23:02:21.701 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-09-02 23:02:21.701 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-09-02 23:02:21.701 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-09-02 23:02:57.882 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-09-02 23:02:57.882 [info] Using the Electron fetcher.
+2025-09-02 23:02:57.882 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-09-02 23:02:57.882 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-09-02 23:02:57.882 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-09-02 23:03:00.220 [info] Logged in as Mealman1551
+2025-09-02 23:03:01.159 [info] Got Copilot token for Mealman1551
+2025-09-02 23:03:01.247 [info] activationBlocker from 'languageModelAccess' took for 3307ms
+2025-09-02 23:03:01.694 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-09-02 23:03:01.694 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-09-02 23:03:01.710 [info] Registering default platform agent...
+2025-09-02 23:03:01.711 [info] activationBlocker from 'conversationFeature' took for 3780ms
+2025-09-02 23:03:01.846 [info] Fetched model metadata in 3127ms add70b89-804a-40c0-8d80-ce1e1213b03e
+2025-09-02 23:03:01.895 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-09-02 23:03:07.843 [info] Refetch model metadata: Succeeded in 437ms 65f79961-41e5-4101-b092-537df572820c (B580:D3BFF:16E49E0:1ABA7EA:68B75B8B) using node-fetch with status 200.
+2025-09-02 23:03:08.251 [info] Refetch model metadata: Succeeded in 396ms c5f77dfd-e9d3-4d4d-8908-809a34604401 (843A:282AA1:16E91DB:1A5CB65:68B75B8C) using node-http with status 200.
+2025-09-02 23:03:08.642 [info] Refetch model metadata: Succeeded in 383ms a0790360-e7b9-4525-837e-c93367bc1711 (837A:8F2F1:920551:AF369E:68B75B8C) using electron-fetch with status 200.
+2025-09-02 23:03:22.726 [info] message 0 returned. finish reason: [stop]
+2025-09-02 23:03:22.726 [info] request done: requestId: [058ca617-4b1b-4334-9e8b-9ba0efe1987c] model deployment ID: []
+2025-09-02 23:03:23.293 [info] Latest entry: ccreq:latestrequest.copilotmd
+2025-09-02 23:03:23.293 [info] ccreq:88fc35b0.copilotmd | success | copilot-nes-xtab | 872ms | [XtabProvider]
+2025-09-02 23:03:23.307 [info] ccreq:4483db6f.copilotmd | markdown
+2025-09-02 23:03:24.384 [info] ccreq:b1870b0d.copilotmd | markdown
+2025-09-02 23:03:27.110 [info] message 0 returned. finish reason: [stop]
+2025-09-02 23:03:27.110 [info] request done: requestId: [2e3556b3-04f6-4320-a80a-16f71760ec74] model deployment ID: []
+2025-09-02 23:03:27.112 [info] ccreq:2de2695e.copilotmd | success | copilot-nes-xtab | 377ms | [XtabProvider]
+2025-09-02 23:03:27.120 [info] ccreq:96527924.copilotmd | markdown
+2025-09-02 23:03:30.493 [info] message 0 returned. finish reason: [stop]
+2025-09-02 23:03:30.493 [info] request done: requestId: [fdc9b7ce-8c3c-471d-99a4-466c00bace78] model deployment ID: []
+2025-09-02 23:03:30.496 [info] ccreq:8cd8c237.copilotmd | success | copilot-nes-xtab | 271ms | [XtabProvider]
+2025-09-02 23:03:31.505 [info] ccreq:e9780bcd.copilotmd | markdown

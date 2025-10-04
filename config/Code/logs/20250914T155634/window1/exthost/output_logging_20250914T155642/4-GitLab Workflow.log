@@ -1,0 +1,18 @@
+2025-09-14T15:59:56:991 [info]: PacProxyAgent not found
+2025-09-14T16:42:13:279 [error]: {
+      "userMessage": "GitLab Language Server failed to start",
+      "errorMessage": "The GitLab Language Server failed to start in 10 seconds. Try to restart the GitLab extension.",
+      "stack": [
+        "Error: The GitLab Language Server failed to start in 10 seconds. Try to restart the GitLab extension.",
+        "    at EDe.initAndStart (/home/nathan/.vscode/extensions/src/common/language_server/language_client_wrapper.ts:194:26)",
+        "    at IDe.startLanguageServer (/home/nathan/.vscode/extensions/src/common/language_server/language_server_manager.ts:148:25)",
+        "    at Yzn (/home/nathan/.vscode/extensions/src/desktop/extension.ts:389:7)",
+        "    at _b.n (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:13382)",
+        "    at _b.m (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:13345)",
+        "    at _b.l (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:12801)"
+      ]
+    }
+2025-09-14T16:42:21:719 [info]: Extracted urls: []
+2025-09-14T16:42:27:148 [info]: Extracted urls: []
+2025-09-14T16:42:28:092 [info]: More recent project update in progress, discarding findings for urls: []
+2025-09-14T16:42:33:198 [info]: Found 0 projects for urls: []

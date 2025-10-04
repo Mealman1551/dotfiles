@@ -1,0 +1,9 @@
+2025-09-05T19:38:50:881 [info]: fetch: Detected no proxy settings
+2025-09-05T19:38:50:913 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-09-05T19:38:51:441 [info]: GitLab Language Server is starting (v8.6.1)
+2025-09-05T19:38:51:449 [info]: Applying 3 endpoints to connection.
+2025-09-05T19:38:51:881 [info]: [HttpServer]: server listening on http://127.0.0.1:34643/
+2025-09-05T19:38:51:894 [info]: GitLab Language Server has started
+[Error - 19:38:51] (node:560682) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+2025-09-05T19:38:51:967 [info]: [VirtualFileSystemService] Registering watchers

@@ -1,0 +1,47 @@
+2025-09-28T20:20:48:265 [info]: PacProxyAgent not found
+2025-09-28T20:20:48:267 [info]: [LogNetworkConfig] Network Configuration detected: {
+      "http": {
+        "proxy": "",
+        "proxySupport": "override",
+        "proxyAuthorization": null,
+        "proxyStrictSSL": true,
+        "noProxy": [],
+        "electronFetch": false,
+        "fetchAdditionalSupport": true,
+        "experimental.systemCertificatesV2": false
+      },
+      "gitlab": {
+        "ca": "",
+        "cert": "",
+        "certKey": "",
+        "ignoreCertificateErrors": false
+      }
+    }
+2025-09-28T20:20:55:270 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-09-28T20:20:55:347 [info]: handleRegisterCapability: {
+      "id": "021aabd5-4624-4802-9366-a6beb16e4456",
+      "method": "workspace/didChangeWatchedFiles",
+      "registerOptions": {
+        "watchers": [
+          {
+            "globPattern": "**/*"
+          }
+        ]
+      }
+    }
+2025-09-28T20:20:55:531 [info]: Extracted urls: []
+2025-09-28T20:20:55:531 [warning]: GitExtensionWrapper is missing repository for file:///home/nathan/ADC-compile-from-source
+2025-09-28T20:20:55:538 [warning]: GitExtensionWrapper is missing repository for file:///home/nathan/ADC-compile-from-source
+2025-09-28T20:20:55:538 [warning]: GitExtensionWrapper is missing repository for file:///home/nathan/ADC-compile-from-source
+2025-09-28T20:20:55:538 [warning]: GitExtensionWrapper is missing repository for file:///home/nathan/ADC-compile-from-source
+2025-09-28T20:20:55:539 [info]: Found 0 projects for urls: []
+2025-09-28T20:20:55:542 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-09-28T20:20:55:738 [info]: Extracted urls: [
+      "https://github.com/Mealman1551/ADC-compile-from-source.git"
+    ]
+2025-09-28T20:20:55:740 [info]: Found 0 projects for urls: [
+      "https://github.com/Mealman1551/ADC-compile-from-source.git"
+    ]
+2025-09-28T20:20:55:741 [warning]: There is no GitLab account available. Sending empty credentials to GitLab Language Server
+2025-09-28T20:22:38:542 [info]: Extracted urls: []
+2025-09-28T20:22:38:692 [info]: Found 0 projects for urls: []

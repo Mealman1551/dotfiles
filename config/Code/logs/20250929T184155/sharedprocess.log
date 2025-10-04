@@ -1,0 +1,7 @@
+2025-09-29 18:42:06.045 [info] Getting Manifest... gitlab.gitlab-workflow
+2025-09-29 18:42:06.191 [info] Installing extension: gitlab.gitlab-workflow {"productVersion":{"version":"1.104.2","date":"2025-09-24T11:21:37.073Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-29 18:42:10.843 [info] Extension signature verification result for gitlab.gitlab-workflow: Success. Internal Code: 0. Executed: true. Duration: 2158ms.
+2025-09-29 18:42:14.395 [info] Extracted extension to file:///home/nathan/.vscode/extensions/gitlab.gitlab-workflow-6.49.0: gitlab.gitlab-workflow
+2025-09-29 18:42:14.463 [info] Renamed to /home/nathan/.vscode/extensions/gitlab.gitlab-workflow-6.49.0
+2025-09-29 18:42:14.546 [info] Marked extension as removed gitlab.gitlab-workflow-6.47.0
+2025-09-29 18:42:14.642 [info] Extension installed successfully: gitlab.gitlab-workflow vscode-userdata:/home/nathan/.vscode/extensions/extensions.json

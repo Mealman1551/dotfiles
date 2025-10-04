@@ -1,0 +1,40 @@
+2025-09-02 23:03:53.757 [info] Installing C# dependencies...
+2025-09-02 23:03:53.757 [info] 
+
+2025-09-02 23:03:53.757 [info] Platform: linux, x86_64, name=debian, version=13
+
+2025-09-02 23:03:53.757 [info] 
+
+2025-09-02 23:03:53.764 [info] Downloading package 'Language server for Roslyn Copilot integration' 
+2025-09-02 23:03:55.010 [info] (35 KB)
+2025-09-02 23:03:55.010 [info] ..........
+2025-09-02 23:03:55.162 [info] .........
+2025-09-02 23:03:55.163 [info] .
+2025-09-02 23:03:55.163 [info]  Done!
+
+2025-09-02 23:03:55.166 [info] Validating download...
+
+2025-09-02 23:03:55.166 [info] Integrity Check succeeded.
+
+2025-09-02 23:03:55.166 [info] Installing package 'Language server for Roslyn Copilot integration'
+
+2025-09-02 23:03:55.167 [info] 
+
+2025-09-02 23:03:55.191 [info] Finished
+
+2025-09-02 23:03:55.191 [info] 
+
+2025-09-02 23:03:55.237 [info] The .NET Core SDK cannot be located: Error running dotnet --info: Error: Command failed: dotnet --info
+/bin/sh: 1: dotnet: not found
+
+
+/bin/sh: 1: dotnet: not found
+. .NET Core debugging will not be enabled. Make sure the .NET Core SDK is installed and is on the path.
+
+2025-09-02 23:03:57.452 [info] Locating .NET runtime version 9.0.1
+2025-09-02 23:03:57.768 [info] Did not find .NET 9.0.1 on path, falling back to acquire runtime via ms-dotnettools.vscode-dotnet-runtime
+2025-09-02 23:04:03.401 [info] Dotnet path: /home/nathan/.config/Code/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/9.0.8~x64~aspnetcore/dotnet
+2025-09-02 23:04:03.401 [info] Activating C# + C# Dev Kit + C# IntelliCode...
+2025-09-02 23:04:04.253 [info] [stdout] info: Program[0]
+      Server started with process ID 3070930
+

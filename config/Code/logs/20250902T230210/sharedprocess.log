@@ -1,0 +1,33 @@
+2025-09-02 23:02:15.406 [info] Deleted marked for removal extension from disk catppuccin.catppuccin-vsc /home/nathan/.vscode/extensions/catppuccin.catppuccin-vsc-3.17.0
+2025-09-02 23:02:15.549 [info] Deleted marked for removal extension from disk github.copilot /home/nathan/.vscode/extensions/github.copilot-1.350.0
+2025-09-02 23:02:15.551 [info] Deleted marked for removal extension from disk gitlab.gitlab-workflow /home/nathan/.vscode/extensions/gitlab.gitlab-workflow-6.39.1
+2025-09-02 23:02:15.551 [info] Deleted marked for removal extension from disk gitlab.gitlab-workflow /home/nathan/.vscode/extensions/gitlab.gitlab-workflow-6.40.0
+2025-09-02 23:02:15.564 [info] Deleted marked for removal extension from disk oracle.oracle-java /home/nathan/.vscode/extensions/oracle.oracle-java-24.0.0
+2025-09-02 23:02:21.330 [info] Getting Manifest... github.codespaces
+2025-09-02 23:02:21.335 [info] Getting Manifest... mechatroner.rainbow-csv
+2025-09-02 23:02:21.348 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2025-09-02 23:02:21.448 [info] Installing extension: github.codespaces {"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-02 23:02:21.454 [info] Installing extension: mechatroner.rainbow-csv {"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-02 23:02:21.469 [info] Installing extension: streetsidesoftware.code-spell-checker {"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-02 23:02:27.634 [info] Getting Manifest... ms-vscode.cpptools
+2025-09-02 23:02:27.750 [info] Installing extension: ms-vscode.cpptools {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nathan/.vscode/extensions/extensions.json","path":"/home/nathan/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.103.2","date":"2025-08-20T16:45:34.255Z"}}
+2025-09-02 23:02:27.751 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+2025-09-02 23:02:28.604 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Internal Code: 0. Executed: true. Duration: 5301ms.
+2025-09-02 23:02:28.959 [info] Extension signature verification result for streetsidesoftware.code-spell-checker: Success. Internal Code: 0. Executed: true. Duration: 5703ms.
+2025-09-02 23:02:29.136 [info] Extension signature verification result for github.codespaces: Success. Internal Code: 0. Executed: true. Duration: 5896ms.
+2025-09-02 23:02:30.263 [info] Extracted extension to file:///home/nathan/.vscode/extensions/mechatroner.rainbow-csv-3.21.0: mechatroner.rainbow-csv
+2025-09-02 23:02:30.350 [info] Renamed to /home/nathan/.vscode/extensions/mechatroner.rainbow-csv-3.21.0
+2025-09-02 23:02:30.599 [info] Marked extension as removed mechatroner.rainbow-csv-3.20.0
+2025-09-02 23:02:30.684 [info] Extension installed successfully: mechatroner.rainbow-csv vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-02 23:02:31.843 [info] Extracted extension to file:///home/nathan/.vscode/extensions/github.codespaces-1.17.4: github.codespaces
+2025-09-02 23:02:31.899 [info] Renamed to /home/nathan/.vscode/extensions/github.codespaces-1.17.4
+2025-09-02 23:02:32.003 [info] Marked extension as removed github.codespaces-1.17.3
+2025-09-02 23:02:32.051 [info] Extension installed successfully: github.codespaces vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-02 23:02:32.557 [info] Extracted extension to file:///home/nathan/.vscode/extensions/streetsidesoftware.code-spell-checker-4.2.6: streetsidesoftware.code-spell-checker
+2025-09-02 23:02:32.626 [info] Renamed to /home/nathan/.vscode/extensions/streetsidesoftware.code-spell-checker-4.2.6
+2025-09-02 23:02:32.743 [info] Marked extension as removed streetsidesoftware.code-spell-checker-4.0.47
+2025-09-02 23:02:32.767 [info] Extension installed successfully: streetsidesoftware.code-spell-checker vscode-userdata:/home/nathan/.vscode/extensions/extensions.json
+2025-09-02 23:02:34.965 [info] Extension signature verification result for ms-vscode.cpptools: Success. Internal Code: 0. Executed: true. Duration: 3503ms.
+2025-09-02 23:02:47.110 [info] Extracted extension to file:///home/nathan/.vscode/extensions/ms-vscode.cpptools-1.26.3-linux-x64: ms-vscode.cpptools
+2025-09-02 23:02:47.148 [info] Renamed to /home/nathan/.vscode/extensions/ms-vscode.cpptools-1.26.3-linux-x64
+2025-09-02 23:02:47.265 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/nathan/.vscode/extensions/extensions.json

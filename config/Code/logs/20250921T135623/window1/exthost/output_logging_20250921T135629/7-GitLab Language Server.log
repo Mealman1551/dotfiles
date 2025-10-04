@@ -1,0 +1,85 @@
+2025-09-21T13:57:03:338 [info]: fetch: Detected no proxy settings
+2025-09-21T13:57:03:419 [info]: [SupportedLanguageService] Initialized. Enabling the default Code Suggestions languages: c,cpp,csharp,go,haml,handlebars,java,javascript,javascriptreact,kotlin,python,php,ruby,rust,scala,shellscript,sql,swift,typescript,typescriptreact,svelte,terraform,terragrunt,vue
+2025-09-21T13:57:04:113 [info]: GitLab Language Server is starting (v8.6.1)
+2025-09-21T13:57:04:115 [info]: Applying 3 endpoints to connection.
+2025-09-21T13:57:04:685 [info]: [HttpServer]: server listening on http://127.0.0.1:33725/
+2025-09-21T13:57:04:705 [info]: GitLab Language Server has started
+[Error - 13:57:04] (node:134414) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+2025-09-21T13:57:04:943 [info]: [VirtualFileSystemService] Registering watchers
+2025-09-21T13:57:14:827 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T13:57:32:489 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/older/ADC_Aur_2025.08.1.py
+2025-09-21T13:57:32:490 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/ADC_Aur_2025.08.1.py
+2025-09-21T13:57:59:748 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/ADC_Aur_2025.08.1.py
+2025-09-21T13:58:21:907 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/ADC_Aur_2025.09.1.py
+2025-09-21T13:58:21:926 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/ADC_Aur_2025.08.1.py
+2025-09-21T14:00:14:835 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:00:15:382 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:03:15:585 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:03:16:046 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:03:56:145 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/ADC_Aur_2025.09.1.py
+2025-09-21T14:04:55:554 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/ADC_Aur_2025.09.1.py
+2025-09-21T14:06:16:159 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:06:16:587 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:07:45:064 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/README.md
+2025-09-21T14:08:43:152 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index.lock
+2025-09-21T14:08:43:153 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:08:43:156 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/heads/ADC-Unstable
+2025-09-21T14:08:43:157 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/COMMIT_EDITMSG
+2025-09-21T14:08:43:160 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index.lock
+2025-09-21T14:08:54:323 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:08:54:324 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:08:54:326 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/heads/ADC-Unstable
+2025-09-21T14:08:54:327 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/COMMIT_EDITMSG
+2025-09-21T14:08:57:704 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index.lock
+2025-09-21T14:08:57:705 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:08:57:706 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/heads/ADC-Unstable
+2025-09-21T14:08:57:707 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/COMMIT_EDITMSG
+2025-09-21T14:08:57:708 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index.lock
+2025-09-21T14:08:59:915 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/ADC-Unstable.lock
+2025-09-21T14:08:59:916 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/ADC-Unstable
+2025-09-21T14:08:59:917 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:08:59:918 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/ADC-Unstable.lock
+2025-09-21T14:09:00:260 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:09:00:647 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/HEAD
+2025-09-21T14:09:50:356 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:09:50:815 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:10:56:317 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/README.md
+2025-09-21T14:11:01:515 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:11:01:516 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:11:01:516 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/heads/ADC-Unstable
+2025-09-21T14:11:01:516 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/COMMIT_EDITMSG
+2025-09-21T14:11:03:406 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/ADC-Unstable
+2025-09-21T14:11:03:407 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:11:03:759 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:11:04:126 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/HEAD
+2025-09-21T14:11:40:317 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/README.md
+2025-09-21T14:11:44:232 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:11:44:233 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:11:44:234 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/heads/ADC-Unstable
+2025-09-21T14:11:44:235 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/COMMIT_EDITMSG
+2025-09-21T14:11:46:476 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/ADC-Unstable
+2025-09-21T14:11:46:477 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:11:46:810 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:11:47:178 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/HEAD
+2025-09-21T14:12:20:880 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/README.md
+2025-09-21T14:12:26:863 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:12:26:864 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:12:26:865 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/heads/ADC-Unstable
+2025-09-21T14:12:26:865 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/COMMIT_EDITMSG
+2025-09-21T14:12:28:512 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/ADC-Unstable
+2025-09-21T14:12:28:513 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:12:28:920 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:12:29:310 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/HEAD
+2025-09-21T14:12:50:861 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:12:51:317 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:12:55:422 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/README.md
+2025-09-21T14:12:59:116 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index.lock
+2025-09-21T14:12:59:116 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index
+2025-09-21T14:12:59:117 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/heads/ADC-Unstable
+2025-09-21T14:12:59:118 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/COMMIT_EDITMSG
+2025-09-21T14:12:59:119 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/index.lock
+2025-09-21T14:13:00:975 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/ADC-Unstable
+2025-09-21T14:13:00:980 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:13:01:387 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/FETCH_HEAD
+2025-09-21T14:13:01:756 [warning]: [RepositoryService] No matching repository found for file file:///home/nathan/ADC/.git/refs/remotes/origin/HEAD
