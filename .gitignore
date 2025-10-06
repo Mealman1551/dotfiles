@@ -1,1 +1,10 @@
 config/Code/CachedExtensionVSIXs/
+config/Code/CachedData/
+config/Code/Cache/
+config/Code/logs/
+config/Code/CachedExtensionVSIXs/
+config/Code/User/workspaceStorage/
+config/Code/User/globalStorage/
+config/Code/User/History/
+__pycache__/
+*.pyc
