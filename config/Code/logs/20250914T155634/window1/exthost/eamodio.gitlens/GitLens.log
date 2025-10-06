@@ -1,8 +1,0 @@
-2025-09-14 16:00:14.344 [info] GitLens v17.4.1 activating in Visual Studio Code (1.104.0) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (1f136c8d7446a1f27b9dcd2f2c14d7ba2508c6007dbc3c90187eb2f3fc193b91|33bb9eb6-f812-4d79-a41e-6b3243b7b72d1757858197299)
-To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
-
-2025-09-14 16:43:41.866 [info] [2025-09-14 14:43:10.510] [            3] ProductConfigProvider.load 
-AbortError: The user aborted a request.
-[2025-09-14 14:43:13.924] [            3] ProductConfigProvider.load 
-Canceled: Operation cancelled; The user aborted a request.
-

@@ -1,8 +1,0 @@
-2025-09-14 15:56:37.449 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 24ms.
-2025-09-14 15:56:37.745 [warning] Creation of workbench contribution 'workbench.contrib.configurationDefaultOverridesContribution' took 39ms.
-2025-09-14 15:56:38.547 [info] Started local extension host with pid 2977448.
-2025-09-14 15:56:40.299 [error] [/home/nathan/.vscode/extensions/github.copilot-chat-0.30.3]: This extension is using the API proposal 'chatParticipantPrivate' that is not compatible with the current version of VS Code.
-2025-09-14 15:56:47.495 [info] Auto updating outdated extensions. github.copilot, github.copilot-chat, gitlab.gitlab-workflow, ms-dotnettools.csdevkit, ms-dotnettools.csharp, ms-python.python, ms-python.vscode-python-envs, ms-vscode-remote.remote-wsl, ms-vscode.cpptools, ms-vscode.live-server
-2025-09-14 15:56:49.462 [info] Settings Sync: Account status changed from uninitialized to available
-2025-09-14 15:56:53.922 [info] Extension host (LocalProcess pid: 2977448) is unresponsive.
-2025-09-14 15:57:03.200 [warning] Creation of workbench contribution 'chat.nativeBuiltinTools' took 394ms.

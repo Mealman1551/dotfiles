@@ -1,7 +1,0 @@
-2025-09-29 18:42:02.552 [info] Experiment 'pythonSurveyNotification' is active
-2025-09-29 18:42:02.552 [info] Native locator: Refresh started
-2025-09-29 18:42:02.552 [info] Native locator: Refresh finished in 448 ms
-2025-09-29 18:42:04.449 [info] Python interpreter path: /usr/bin/python3
-2025-09-29 18:42:05.052 [info] > pyenv which python
-2025-09-29 18:42:05.052 [info] cwd: .
-2025-09-29 18:42:24.834 [info] Starting Pylance language server.
