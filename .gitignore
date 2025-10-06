@@ -8,3 +8,27 @@ config/Code/User/globalStorage/
 config/Code/User/History/
 __pycache__/
 *.pyc
+
+config/Code/Cache/
+config/Code/Cached*/
+config/Code/Code Cache/
+config/Code/Dawn*/
+config/Code/GPUCache/
+config/Code/Local Storage/
+config/Code/logs/
+config/Code/Service Worker/
+config/Code/Session Storage/
+config/Code/Shared Dictionary/
+config/Code/User/History/
+config/Code/User/workspaceStorage/
+config/Code/WebStorage/
+config/Code/Crashpad/
+config/Code/User/globalStorage/*/logContextRecordings/
+
+
+!config/Code/User/settings.json
+!config/Code/User/keybindings.json
+!config/Code/User/snippets/**
+!config/Code/User/tasks.json
+!config/Code/User/extensions.json
+
